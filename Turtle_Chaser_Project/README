@@ -1,0 +1,2 @@
+Turtle Chaser
+This is a ROS 2 package that spawns a turtle at random poses in the turtlesim environment and moves the default turtle to chase the spawned one and kill it.
